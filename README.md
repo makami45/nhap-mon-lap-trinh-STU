@@ -1,3 +1,3 @@
-# nhap-mon-lap-trunh-STU
+# nhap-mon-lap-trinh-STU
 2023
 Code dao
